@@ -1,0 +1,36 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/Program Files/msys2/mingw64/include/gtk-4.0",
+                "D:/Program Files/msys2/mingw64/include/glib-2.0",
+                "D:/Program Files/msys2/mingw64/lib/glib-2.0/include",
+                "D:/Program Files/msys2/mingw64/include/cairo",
+                "D:/Program Files/msys2/mingw64/include/pango-1.0",
+                "D:/Program Files/msys2/mingw64/include/harfbuzz",
+                "D:/Program Files/msys2/mingw64/include/fribidi",
+                "D:/Program Files/msys2/mingw64/include/gdk-pixbuf-2.0",
+                "D:/Program Files/msys2/mingw64/include/graphene-1.0",
+                "D:/Program Files/msys2/mingw64/lib/graphene-1.0/include",
+                "D:/Program Files/msys2/mingw64/include/lzo",
+                "D:/Program Files/msys2/mingw64/include/freetype2",
+                "D:/Program Files/msys2/mingw64/include/libpng16",
+                "D:/Program Files/msys2/mingw64/include",
+                "D:/Program Files/msys2/mingw64/include/pixman-1",
+                "D:/Program Files/msys2/mingw64/lib"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "D:\\Program Files\\msys2\\mingw64\\bin\\gcc.exe",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
